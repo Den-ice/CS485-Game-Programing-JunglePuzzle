@@ -43,7 +43,7 @@ https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cl
 Music by Derek Fiechter & Brandon Fiechter
 Songs Volcano Lands, Cavemen, Jungle Princess, and Jungle Festival
 
-###Contributions:
+##Contributions:
 
 **Chris Eoff:**
 Puzzle Design - Responsible for the creative design and storyboarding of each end-level puzzle section in the game. Began by brainstorming possible puzzle layouts and sketching ideas. The next step was to storyboard the entire puzzle section, notating the specific mechanics and obstacles (i.e. multi-button presses, falling blocks, etc.), and map out the overall progression of the area. The final step was to build the area in Unity at the end of the levels that Jordan and Sanjana designed, ensuring that the area’s theming was consistent with what they had already built.
